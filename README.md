@@ -1,7 +1,9 @@
 # ws-srv
 # how to run local websocket server 
 
-``` cd ws-srv/
+``` 
+cd ws-srv/
+
 npm install
 
 npm i -g typescript 
