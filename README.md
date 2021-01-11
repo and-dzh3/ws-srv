@@ -1,14 +1,14 @@
 # ws-srv
 # how to run local websocket server 
 
-# cd ws-srv/
-<!-- how to run -->
-# npm install
+``` cd ws-srv/
+npm install
 
-# npm i -g typescript 
+npm i -g typescript 
 
-# ./node_modules/.bin/tsc
+./node_modules/.bin/tsc
 
-# node ./dist/server/server.js   
+node ./dist/server/server.js
+``` 
 
-# adress : ws://localhost:8999
+## adress : ws://localhost:8999
