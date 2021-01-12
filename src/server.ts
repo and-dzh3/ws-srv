@@ -63,7 +63,7 @@ setInterval(() => {
         extWs.isAlive = false;
         ws.ping(null, undefined);
     });
-}, 5000);
+}, 200);
 
 //start our server
 server.listen(process.env.PORT || 8999, () => {
